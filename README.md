@@ -45,3 +45,13 @@ yarn release
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+## How to setup
+
+```bash
+npm install 
+configuring hardhat config
+npm run build
+npm run deploy
+check if the codes working in thirdweb
+```
